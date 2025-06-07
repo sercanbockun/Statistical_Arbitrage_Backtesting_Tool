@@ -1,0 +1,798 @@
+2025-06-07 21:30:36,878 - INFO - Found 398 USDT trading pairs
+2025-06-07 21:30:36,914 - INFO - Processing timeframe: 1d
+2025-06-07 21:30:37,663 - INFO - Downloaded BTCUSDT with 524 records. Progress: 0.25%
+2025-06-07 21:30:38,585 - INFO - Downloaded ETHUSDT with 524 records. Progress: 0.50%
+2025-06-07 21:30:39,258 - INFO - Downloaded BNBUSDT with 524 records. Progress: 0.75%
+2025-06-07 21:30:40,117 - INFO - Downloaded NEOUSDT with 524 records. Progress: 1.01%
+2025-06-07 21:30:40,692 - INFO - Downloaded LTCUSDT with 524 records. Progress: 1.26%
+2025-06-07 21:30:41,247 - INFO - Downloaded QTUMUSDT with 524 records. Progress: 1.51%
+2025-06-07 21:30:41,915 - INFO - Downloaded ADAUSDT with 524 records. Progress: 1.76%
+2025-06-07 21:30:42,629 - INFO - Downloaded XRPUSDT with 524 records. Progress: 2.01%
+2025-06-07 21:30:43,289 - INFO - Downloaded IOTAUSDT with 524 records. Progress: 2.26%
+2025-06-07 21:30:44,008 - INFO - Downloaded XLMUSDT with 524 records. Progress: 2.51%
+2025-06-07 21:30:44,719 - INFO - Downloaded ONTUSDT with 524 records. Progress: 2.76%
+2025-06-07 21:30:45,345 - INFO - Downloaded TRXUSDT with 524 records. Progress: 3.02%
+2025-06-07 21:30:46,063 - INFO - Downloaded ETCUSDT with 524 records. Progress: 3.27%
+2025-06-07 21:30:46,894 - INFO - Downloaded ICXUSDT with 524 records. Progress: 3.52%
+2025-06-07 21:30:47,576 - INFO - Downloaded VETUSDT with 524 records. Progress: 3.77%
+2025-06-07 21:30:48,410 - INFO - Downloaded USDCUSDT with 524 records. Progress: 4.02%
+2025-06-07 21:30:48,995 - INFO - Downloaded LINKUSDT with 524 records. Progress: 4.27%
+2025-06-07 21:30:49,759 - INFO - Downloaded ONGUSDT with 524 records. Progress: 4.52%
+2025-06-07 21:30:50,574 - INFO - Downloaded HOTUSDT with 524 records. Progress: 4.77%
+2025-06-07 21:30:51,240 - INFO - Downloaded ZILUSDT with 524 records. Progress: 5.03%
+2025-06-07 21:30:52,006 - INFO - Downloaded ZRXUSDT with 524 records. Progress: 5.28%
+2025-06-07 21:30:52,829 - INFO - Downloaded FETUSDT with 524 records. Progress: 5.53%
+2025-06-07 21:30:53,652 - INFO - Downloaded BATUSDT with 524 records. Progress: 5.78%
+2025-06-07 21:30:54,317 - INFO - Downloaded ZECUSDT with 524 records. Progress: 6.03%
+2025-06-07 21:30:55,090 - INFO - Downloaded IOSTUSDT with 524 records. Progress: 6.28%
+2025-06-07 21:30:55,702 - INFO - Downloaded CELRUSDT with 524 records. Progress: 6.53%
+2025-06-07 21:30:56,384 - INFO - Downloaded DASHUSDT with 524 records. Progress: 6.78%
+2025-06-07 21:30:56,968 - INFO - Downloaded THETAUSDT with 524 records. Progress: 7.04%
+2025-06-07 21:30:57,743 - INFO - Downloaded ENJUSDT with 524 records. Progress: 7.29%
+2025-06-07 21:30:58,382 - INFO - Downloaded ATOMUSDT with 524 records. Progress: 7.54%
+2025-06-07 21:30:59,192 - INFO - Downloaded TFUELUSDT with 524 records. Progress: 7.79%
+2025-06-07 21:31:00,298 - INFO - Downloaded ONEUSDT with 524 records. Progress: 8.04%
+2025-06-07 21:31:01,024 - INFO - Downloaded ALGOUSDT with 524 records. Progress: 8.29%
+2025-06-07 21:31:01,693 - INFO - Downloaded DOGEUSDT with 524 records. Progress: 8.54%
+2025-06-07 21:31:02,475 - INFO - Downloaded DUSKUSDT with 524 records. Progress: 8.79%
+2025-06-07 21:31:03,231 - INFO - Downloaded ANKRUSDT with 524 records. Progress: 9.05%
+2025-06-07 21:31:04,096 - INFO - Downloaded WINUSDT with 524 records. Progress: 9.30%
+2025-06-07 21:31:04,694 - INFO - Downloaded COSUSDT with 524 records. Progress: 9.55%
+2025-06-07 21:31:05,577 - INFO - Downloaded MTLUSDT with 524 records. Progress: 9.80%
+2025-06-07 21:31:06,393 - INFO - Downloaded DENTUSDT with 524 records. Progress: 10.05%
+2025-06-07 21:31:07,177 - INFO - Downloaded WANUSDT with 524 records. Progress: 10.30%
+2025-06-07 21:31:07,793 - INFO - Downloaded FUNUSDT with 524 records. Progress: 10.55%
+2025-06-07 21:31:08,808 - INFO - Downloaded CVCUSDT with 524 records. Progress: 10.80%
+2025-06-07 21:31:09,579 - INFO - Downloaded CHZUSDT with 524 records. Progress: 11.06%
+2025-06-07 21:31:10,165 - INFO - Downloaded BANDUSDT with 524 records. Progress: 11.31%
+2025-06-07 21:31:10,946 - INFO - Downloaded XTZUSDT with 524 records. Progress: 11.56%
+2025-06-07 21:31:11,624 - INFO - Downloaded RVNUSDT with 524 records. Progress: 11.81%
+2025-06-07 21:31:12,258 - INFO - Downloaded HBARUSDT with 524 records. Progress: 12.06%
+2025-06-07 21:31:12,901 - INFO - Downloaded NKNUSDT with 524 records. Progress: 12.31%
+2025-06-07 21:31:13,718 - INFO - Downloaded STXUSDT with 524 records. Progress: 12.56%
+2025-06-07 21:31:14,372 - INFO - Downloaded KAVAUSDT with 524 records. Progress: 12.81%
+2025-06-07 21:31:15,149 - INFO - Downloaded ARPAUSDT with 524 records. Progress: 13.07%
+2025-06-07 21:31:15,828 - INFO - Downloaded IOTXUSDT with 524 records. Progress: 13.32%
+2025-06-07 21:31:16,784 - INFO - Downloaded RLCUSDT with 524 records. Progress: 13.57%
+2025-06-07 21:31:17,814 - INFO - Downloaded BCHUSDT with 524 records. Progress: 13.82%
+2025-06-07 21:31:18,625 - INFO - Downloaded FTTUSDT with 524 records. Progress: 14.07%
+2025-06-07 21:31:19,281 - INFO - Downloaded OGNUSDT with 524 records. Progress: 14.32%
+2025-06-07 21:31:19,909 - INFO - Downloaded LSKUSDT with 524 records. Progress: 14.57%
+2025-06-07 21:31:20,501 - INFO - Downloaded BNTUSDT with 524 records. Progress: 14.82%
+2025-06-07 21:31:21,171 - INFO - Downloaded LTOUSDT with 524 records. Progress: 15.08%
+2025-06-07 21:31:22,014 - INFO - Downloaded MBLUSDT with 524 records. Progress: 15.33%
+2025-06-07 21:31:22,586 - INFO - Downloaded COTIUSDT with 524 records. Progress: 15.58%
+2025-06-07 21:31:23,566 - INFO - Downloaded DATAUSDT with 524 records. Progress: 15.83%
+2025-06-07 21:31:24,332 - INFO - Downloaded SOLUSDT with 524 records. Progress: 16.08%
+2025-06-07 21:31:24,911 - INFO - Downloaded CTSIUSDT with 524 records. Progress: 16.33%
+2025-06-07 21:31:25,475 - INFO - Downloaded HIVEUSDT with 524 records. Progress: 16.58%
+2025-06-07 21:31:26,211 - INFO - Downloaded CHRUSDT with 524 records. Progress: 16.83%
+2025-06-07 21:31:27,023 - INFO - Downloaded ARDRUSDT with 524 records. Progress: 17.09%
+2025-06-07 21:31:27,840 - INFO - Downloaded MDTUSDT with 524 records. Progress: 17.34%
+2025-06-07 21:31:28,521 - INFO - Downloaded KNCUSDT with 524 records. Progress: 17.59%
+2025-06-07 21:31:29,579 - INFO - Downloaded LRCUSDT with 524 records. Progress: 17.84%
+2025-06-07 21:31:30,271 - INFO - Downloaded COMPUSDT with 524 records. Progress: 18.09%
+2025-06-07 21:31:30,973 - INFO - Downloaded SCUSDT with 524 records. Progress: 18.34%
+2025-06-07 21:31:31,681 - INFO - Downloaded ZENUSDT with 524 records. Progress: 18.59%
+2025-06-07 21:31:32,299 - INFO - Downloaded SNXUSDT with 524 records. Progress: 18.84%
+2025-06-07 21:31:32,968 - INFO - Downloaded VTHOUSDT with 524 records. Progress: 19.10%
+2025-06-07 21:31:33,585 - INFO - Downloaded DGBUSDT with 524 records. Progress: 19.35%
+2025-06-07 21:31:34,265 - INFO - Downloaded SXPUSDT with 524 records. Progress: 19.60%
+2025-06-07 21:31:34,899 - INFO - Downloaded MKRUSDT with 524 records. Progress: 19.85%
+2025-06-07 21:31:35,743 - INFO - Downloaded DCRUSDT with 524 records. Progress: 20.10%
+2025-06-07 21:31:36,467 - INFO - Downloaded STORJUSDT with 524 records. Progress: 20.35%
+2025-06-07 21:31:37,140 - INFO - Downloaded MANAUSDT with 524 records. Progress: 20.60%
+2025-06-07 21:31:37,880 - INFO - Downloaded YFIUSDT with 524 records. Progress: 20.85%
+2025-06-07 21:31:38,736 - INFO - Downloaded KMDUSDT with 524 records. Progress: 21.11%
+2025-06-07 21:31:39,395 - INFO - Downloaded USDTDAI with 524 records. Progress: 21.36%
+2025-06-07 21:31:39,986 - INFO - Downloaded JSTUSDT with 524 records. Progress: 21.61%
+2025-06-07 21:31:40,571 - INFO - Downloaded CRVUSDT with 524 records. Progress: 21.86%
+2025-06-07 21:31:41,542 - INFO - Downloaded SANDUSDT with 524 records. Progress: 22.11%
+2025-06-07 21:31:42,192 - INFO - Downloaded NMRUSDT with 524 records. Progress: 22.36%
+2025-06-07 21:31:42,847 - INFO - Downloaded DOTUSDT with 524 records. Progress: 22.61%
+2025-06-07 21:31:43,495 - INFO - Downloaded LUNAUSDT with 524 records. Progress: 22.86%
+2025-06-07 21:31:44,176 - INFO - Downloaded RSRUSDT with 524 records. Progress: 23.12%
+2025-06-07 21:31:44,838 - INFO - Downloaded PAXGUSDT with 524 records. Progress: 23.37%
+2025-06-07 21:31:45,404 - INFO - Downloaded TRBUSDT with 524 records. Progress: 23.62%
+2025-06-07 21:31:46,306 - INFO - Downloaded SUSHIUSDT with 524 records. Progress: 23.87%
+2025-06-07 21:31:46,936 - INFO - Downloaded KSMUSDT with 524 records. Progress: 24.12%
+2025-06-07 21:31:47,508 - INFO - Downloaded EGLDUSDT with 524 records. Progress: 24.37%
+2025-06-07 21:31:48,072 - INFO - Downloaded DIAUSDT with 524 records. Progress: 24.62%
+2025-06-07 21:31:48,815 - INFO - Downloaded RUNEUSDT with 524 records. Progress: 24.87%
+2025-06-07 21:31:49,569 - INFO - Downloaded FIOUSDT with 524 records. Progress: 25.13%
+2025-06-07 21:31:50,385 - INFO - Downloaded UMAUSDT with 524 records. Progress: 25.38%
+2025-06-07 21:31:50,998 - INFO - Downloaded BELUSDT with 524 records. Progress: 25.63%
+2025-06-07 21:31:51,587 - INFO - Downloaded UNIUSDT with 524 records. Progress: 25.88%
+2025-06-07 21:31:52,428 - INFO - Downloaded OXTUSDT with 524 records. Progress: 26.13%
+2025-06-07 21:31:53,020 - INFO - Downloaded SUNUSDT with 524 records. Progress: 26.38%
+2025-06-07 21:31:53,571 - INFO - Downloaded AVAXUSDT with 524 records. Progress: 26.63%
+2025-06-07 21:31:54,123 - INFO - Downloaded FLMUSDT with 524 records. Progress: 26.88%
+2025-06-07 21:31:54,697 - INFO - Downloaded UTKUSDT with 524 records. Progress: 27.14%
+2025-06-07 21:31:55,333 - INFO - Downloaded XVSUSDT with 524 records. Progress: 27.39%
+2025-06-07 21:31:55,907 - INFO - Downloaded ALPHAUSDT with 524 records. Progress: 27.64%
+2025-06-07 21:31:56,596 - INFO - Downloaded AAVEUSDT with 524 records. Progress: 27.89%
+2025-06-07 21:31:57,753 - INFO - Downloaded NEARUSDT with 524 records. Progress: 28.14%
+2025-06-07 21:31:58,427 - INFO - Downloaded FILUSDT with 524 records. Progress: 28.39%
+2025-06-07 21:31:59,329 - INFO - Downloaded INJUSDT with 524 records. Progress: 28.64%
+2025-06-07 21:32:00,039 - INFO - Downloaded AUDIOUSDT with 524 records. Progress: 28.89%
+2025-06-07 21:32:00,600 - INFO - Downloaded CTKUSDT with 524 records. Progress: 29.15%
+2025-06-07 21:32:01,276 - INFO - Downloaded AXSUSDT with 524 records. Progress: 29.40%
+2025-06-07 21:32:02,134 - INFO - Downloaded STRAXUSDT with 517 records. Progress: 29.65%
+2025-06-07 21:32:02,863 - INFO - Downloaded ROSEUSDT with 524 records. Progress: 29.90%
+2025-06-07 21:32:03,437 - INFO - Downloaded AVAUSDT with 524 records. Progress: 30.15%
+2025-06-07 21:32:04,086 - INFO - Downloaded SKLUSDT with 524 records. Progress: 30.40%
+2025-06-07 21:32:05,106 - INFO - Downloaded GRTUSDT with 524 records. Progress: 30.65%
+2025-06-07 21:32:05,657 - INFO - Downloaded JUVUSDT with 524 records. Progress: 30.90%
+2025-06-07 21:32:06,842 - INFO - Downloaded PSGUSDT with 524 records. Progress: 31.16%
+2025-06-07 21:32:07,489 - INFO - Downloaded 1INCHUSDT with 524 records. Progress: 31.41%
+2025-06-07 21:32:08,064 - INFO - Downloaded OGUSDT with 524 records. Progress: 31.66%
+2025-06-07 21:32:09,146 - INFO - Downloaded ATMUSDT with 524 records. Progress: 31.91%
+2025-06-07 21:32:09,682 - INFO - Downloaded ASRUSDT with 524 records. Progress: 32.16%
+2025-06-07 21:32:10,467 - INFO - Downloaded CELOUSDT with 524 records. Progress: 32.41%
+2025-06-07 21:32:11,172 - INFO - Downloaded RIFUSDT with 524 records. Progress: 32.66%
+2025-06-07 21:32:11,808 - INFO - Downloaded TRUUSDT with 524 records. Progress: 32.91%
+2025-06-07 21:32:12,487 - INFO - Downloaded CKBUSDT with 524 records. Progress: 33.17%
+2025-06-07 21:32:13,159 - INFO - Downloaded TWTUSDT with 524 records. Progress: 33.42%
+2025-06-07 21:32:13,732 - INFO - Downloaded SFPUSDT with 524 records. Progress: 33.67%
+2025-06-07 21:32:14,499 - INFO - Downloaded DODOUSDT with 524 records. Progress: 33.92%
+2025-06-07 21:32:15,150 - INFO - Downloaded CAKEUSDT with 524 records. Progress: 34.17%
+2025-06-07 21:32:15,735 - INFO - Downloaded ACMUSDT with 524 records. Progress: 34.42%
+2025-06-07 21:32:16,299 - INFO - Downloaded FISUSDT with 524 records. Progress: 34.67%
+2025-06-07 21:32:16,869 - INFO - Downloaded OMUSDT with 524 records. Progress: 34.92%
+2025-06-07 21:32:17,453 - INFO - Downloaded PONDUSDT with 524 records. Progress: 35.18%
+2025-06-07 21:32:18,051 - INFO - Downloaded DEGOUSDT with 524 records. Progress: 35.43%
+2025-06-07 21:32:18,638 - INFO - Downloaded ALICEUSDT with 524 records. Progress: 35.68%
+2025-06-07 21:32:19,242 - INFO - Downloaded PERPUSDT with 524 records. Progress: 35.93%
+2025-06-07 21:32:19,825 - INFO - Downloaded SUPERUSDT with 524 records. Progress: 36.18%
+2025-06-07 21:32:20,376 - INFO - Downloaded CFXUSDT with 524 records. Progress: 36.43%
+2025-06-07 21:32:20,944 - INFO - Downloaded TKOUSDT with 524 records. Progress: 36.68%
+2025-06-07 21:32:21,617 - INFO - Downloaded PUNDIXUSDT with 524 records. Progress: 36.93%
+2025-06-07 21:32:22,221 - INFO - Downloaded TLMUSDT with 524 records. Progress: 37.19%
+2025-06-07 21:32:23,024 - INFO - Downloaded BARUSDT with 524 records. Progress: 37.44%
+2025-06-07 21:32:23,590 - INFO - Downloaded FORTHUSDT with 524 records. Progress: 37.69%
+2025-06-07 21:32:24,153 - INFO - Downloaded BAKEUSDT with 524 records. Progress: 37.94%
+2025-06-07 21:32:24,721 - INFO - Downloaded SLPUSDT with 524 records. Progress: 38.19%
+2025-06-07 21:32:25,319 - INFO - Downloaded SHIBUSDT with 524 records. Progress: 38.44%
+2025-06-07 21:32:26,070 - INFO - Downloaded ICPUSDT with 524 records. Progress: 38.69%
+2025-06-07 21:32:26,835 - INFO - Downloaded ARUSDT with 524 records. Progress: 38.94%
+2025-06-07 21:32:27,742 - INFO - Downloaded MASKUSDT with 524 records. Progress: 39.20%
+2025-06-07 21:32:28,310 - INFO - Downloaded LPTUSDT with 524 records. Progress: 39.45%
+2025-06-07 21:32:29,180 - INFO - Downloaded XVGUSDT with 524 records. Progress: 39.70%
+2025-06-07 21:32:29,916 - INFO - Downloaded ATAUSDT with 524 records. Progress: 39.95%
+2025-06-07 21:32:30,731 - INFO - Downloaded GTCUSDT with 524 records. Progress: 40.20%
+2025-06-07 21:32:31,322 - INFO - Downloaded PHAUSDT with 524 records. Progress: 40.45%
+2025-06-07 21:32:32,118 - INFO - Downloaded MLNUSDT with 524 records. Progress: 40.70%
+2025-06-07 21:32:32,709 - INFO - Downloaded DEXEUSDT with 524 records. Progress: 40.95%
+2025-06-07 21:32:33,466 - INFO - Downloaded C98USDT with 524 records. Progress: 41.21%
+2025-06-07 21:32:34,097 - INFO - Downloaded QNTUSDT with 524 records. Progress: 41.46%
+2025-06-07 21:32:34,781 - INFO - Downloaded FLOWUSDT with 524 records. Progress: 41.71%
+2025-06-07 21:32:35,497 - INFO - Downloaded MINAUSDT with 524 records. Progress: 41.96%
+2025-06-07 21:32:36,356 - INFO - Downloaded RAYUSDT with 524 records. Progress: 42.21%
+2025-06-07 21:32:36,933 - INFO - Downloaded FARMUSDT with 524 records. Progress: 42.46%
+2025-06-07 21:32:37,486 - INFO - Downloaded QUICKUSDT with 524 records. Progress: 42.71%
+2025-06-07 21:32:38,309 - INFO - Downloaded MBOXUSDT with 524 records. Progress: 42.96%
+2025-06-07 21:32:38,919 - INFO - Downloaded REQUSDT with 524 records. Progress: 43.22%
+2025-06-07 21:32:39,487 - INFO - Downloaded GHSTUSDT with 524 records. Progress: 43.47%
+2025-06-07 21:32:40,046 - INFO - Downloaded WAXPUSDT with 524 records. Progress: 43.72%
+2025-06-07 21:32:40,607 - INFO - Downloaded GNOUSDT with 524 records. Progress: 43.97%
+2025-06-07 21:32:41,316 - INFO - Downloaded XECUSDT with 524 records. Progress: 44.22%
+2025-06-07 21:32:41,879 - INFO - Downloaded DYDXUSDT with 524 records. Progress: 44.47%
+2025-06-07 21:32:42,534 - INFO - Downloaded IDEXUSDT with 524 records. Progress: 44.72%
+2025-06-07 21:32:43,105 - INFO - Downloaded GALAUSDT with 524 records. Progress: 44.97%
+2025-06-07 21:32:43,683 - INFO - Downloaded ILVUSDT with 524 records. Progress: 45.23%
+2025-06-07 21:32:44,280 - INFO - Downloaded YGGUSDT with 524 records. Progress: 45.48%
+2025-06-07 21:32:44,909 - INFO - Downloaded SYSUSDT with 524 records. Progress: 45.73%
+2025-06-07 21:32:45,474 - INFO - Downloaded DFUSDT with 524 records. Progress: 45.98%
+2025-06-07 21:32:46,049 - INFO - Downloaded FIDAUSDT with 524 records. Progress: 46.23%
+2025-06-07 21:32:46,914 - INFO - Downloaded AGLDUSDT with 524 records. Progress: 46.48%
+2025-06-07 21:32:47,508 - INFO - Downloaded RADUSDT with 524 records. Progress: 46.73%
+2025-06-07 21:32:48,331 - INFO - Downloaded RAREUSDT with 524 records. Progress: 46.98%
+2025-06-07 21:32:48,939 - INFO - Downloaded LAZIOUSDT with 524 records. Progress: 47.24%
+2025-06-07 21:32:49,946 - INFO - Downloaded CHESSUSDT with 524 records. Progress: 47.49%
+2025-06-07 21:32:50,905 - INFO - Downloaded ADXUSDT with 524 records. Progress: 47.74%
+2025-06-07 21:32:51,513 - INFO - Downloaded AUCTIONUSDT with 524 records. Progress: 47.99%
+2025-06-07 21:32:52,106 - INFO - Downloaded MOVRUSDT with 524 records. Progress: 48.24%
+2025-06-07 21:32:52,910 - INFO - Downloaded CITYUSDT with 524 records. Progress: 48.49%
+2025-06-07 21:32:53,509 - INFO - Downloaded ENSUSDT with 524 records. Progress: 48.74%
+2025-06-07 21:32:54,117 - INFO - Downloaded QIUSDT with 524 records. Progress: 48.99%
+2025-06-07 21:32:54,958 - INFO - Downloaded PORTOUSDT with 524 records. Progress: 49.25%
+2025-06-07 21:32:55,928 - INFO - Downloaded POWRUSDT with 524 records. Progress: 49.50%
+2025-06-07 21:32:56,540 - INFO - Downloaded JASMYUSDT with 524 records. Progress: 49.75%
+2025-06-07 21:32:57,952 - INFO - Downloaded AMPUSDT with 524 records. Progress: 50.00%
+2025-06-07 21:32:58,622 - INFO - Downloaded PYRUSDT with 524 records. Progress: 50.25%
+2025-06-07 21:32:59,204 - INFO - Downloaded ALCXUSDT with 524 records. Progress: 50.50%
+2025-06-07 21:33:00,010 - INFO - Downloaded SANTOSUSDT with 524 records. Progress: 50.75%
+2025-06-07 21:33:00,636 - INFO - Downloaded BICOUSDT with 524 records. Progress: 51.01%
+2025-06-07 21:33:01,651 - INFO - Downloaded FLUXUSDT with 524 records. Progress: 51.26%
+2025-06-07 21:33:02,229 - INFO - Downloaded FXSUSDT with 524 records. Progress: 51.51%
+2025-06-07 21:33:02,802 - INFO - Downloaded VOXELUSDT with 524 records. Progress: 51.76%
+2025-06-07 21:33:03,450 - INFO - Downloaded HIGHUSDT with 524 records. Progress: 52.01%
+2025-06-07 21:33:04,029 - INFO - Downloaded CVXUSDT with 524 records. Progress: 52.26%
+2025-06-07 21:33:04,668 - INFO - Downloaded PEOPLEUSDT with 524 records. Progress: 52.51%
+2025-06-07 21:33:05,331 - INFO - Downloaded SPELLUSDT with 524 records. Progress: 52.76%
+2025-06-07 21:33:05,998 - INFO - Downloaded JOEUSDT with 524 records. Progress: 53.02%
+2025-06-07 21:33:06,814 - INFO - Downloaded ACHUSDT with 524 records. Progress: 53.27%
+2025-06-07 21:33:07,480 - INFO - Downloaded IMXUSDT with 524 records. Progress: 53.52%
+2025-06-07 21:33:08,295 - INFO - Downloaded GLMRUSDT with 524 records. Progress: 53.77%
+2025-06-07 21:33:09,077 - INFO - Downloaded LOKAUSDT with 524 records. Progress: 54.02%
+2025-06-07 21:33:09,710 - INFO - Downloaded SCRTUSDT with 524 records. Progress: 54.27%
+2025-06-07 21:33:10,327 - INFO - Downloaded API3USDT with 524 records. Progress: 54.52%
+2025-06-07 21:33:11,433 - INFO - Downloaded BTTCUSDT with 524 records. Progress: 54.77%
+2025-06-07 21:33:12,581 - INFO - Downloaded ACAUSDT with 524 records. Progress: 55.03%
+2025-06-07 21:33:13,195 - INFO - Downloaded XNOUSDT with 524 records. Progress: 55.28%
+2025-06-07 21:33:14,027 - INFO - Downloaded WOOUSDT with 524 records. Progress: 55.53%
+2025-06-07 21:33:14,606 - INFO - Downloaded ALPINEUSDT with 524 records. Progress: 55.78%
+2025-06-07 21:33:15,866 - INFO - Downloaded TUSDT with 524 records. Progress: 56.03%
+2025-06-07 21:33:16,696 - INFO - Downloaded ASTRUSDT with 524 records. Progress: 56.28%
+2025-06-07 21:33:17,297 - INFO - Downloaded GMTUSDT with 524 records. Progress: 56.53%
+2025-06-07 21:33:17,995 - INFO - Downloaded KDAUSDT with 524 records. Progress: 56.78%
+2025-06-07 21:33:18,868 - INFO - Downloaded APEUSDT with 524 records. Progress: 57.04%
+2025-06-07 21:33:19,459 - INFO - Downloaded BSWUSDT with 524 records. Progress: 57.29%
+2025-06-07 21:33:20,052 - INFO - Downloaded STEEMUSDT with 524 records. Progress: 57.54%
+2025-06-07 21:33:20,669 - INFO - Downloaded NEXOUSDT with 524 records. Progress: 57.79%
+2025-06-07 21:33:21,279 - INFO - Downloaded REIUSDT with 524 records. Progress: 58.04%
+2025-06-07 21:33:21,866 - INFO - Downloaded LDOUSDT with 524 records. Progress: 58.29%
+2025-06-07 21:33:22,451 - INFO - Downloaded OPUSDT with 524 records. Progress: 58.54%
+2025-06-07 21:33:23,554 - INFO - Downloaded LEVERUSDT with 524 records. Progress: 58.79%
+2025-06-07 21:33:24,135 - INFO - Downloaded STGUSDT with 524 records. Progress: 59.05%
+2025-06-07 21:33:24,736 - INFO - Downloaded LUNCUSDT with 524 records. Progress: 59.30%
+2025-06-07 21:33:25,323 - INFO - Downloaded GMXUSDT with 524 records. Progress: 59.55%
+2025-06-07 21:33:25,901 - INFO - Downloaded POLYXUSDT with 524 records. Progress: 59.80%
+2025-06-07 21:33:26,487 - INFO - Downloaded APTUSDT with 524 records. Progress: 60.05%
+2025-06-07 21:33:27,098 - INFO - Downloaded OSMOUSDT with 524 records. Progress: 60.30%
+2025-06-07 21:33:27,800 - INFO - Downloaded HFTUSDT with 524 records. Progress: 60.55%
+2025-06-07 21:33:28,550 - INFO - Downloaded PHBUSDT with 524 records. Progress: 60.80%
+2025-06-07 21:33:29,180 - INFO - Downloaded HOOKUSDT with 524 records. Progress: 61.06%
+2025-06-07 21:33:30,153 - INFO - Downloaded MAGICUSDT with 524 records. Progress: 61.31%
+2025-06-07 21:33:31,026 - INFO - Downloaded HIFIUSDT with 524 records. Progress: 61.56%
+2025-06-07 21:33:31,666 - INFO - Downloaded RPLUSDT with 524 records. Progress: 61.81%
+2025-06-07 21:33:32,294 - INFO - Downloaded GNSUSDT with 524 records. Progress: 62.06%
+2025-06-07 21:33:33,144 - INFO - Downloaded SYNUSDT with 524 records. Progress: 62.31%
+2025-06-07 21:33:33,736 - INFO - Downloaded SSVUSDT with 524 records. Progress: 62.56%
+2025-06-07 21:33:34,320 - INFO - Downloaded LQTYUSDT with 524 records. Progress: 62.81%
+2025-06-07 21:33:35,274 - INFO - Downloaded USTCUSDT with 524 records. Progress: 63.07%
+2025-06-07 21:33:36,138 - INFO - Downloaded GASUSDT with 524 records. Progress: 63.32%
+2025-06-07 21:33:36,925 - INFO - Downloaded GLMUSDT with 524 records. Progress: 63.57%
+2025-06-07 21:33:37,537 - INFO - Downloaded PROMUSDT with 524 records. Progress: 63.82%
+2025-06-07 21:33:38,188 - INFO - Downloaded QKCUSDT with 524 records. Progress: 64.07%
+2025-06-07 21:33:38,799 - INFO - Downloaded IDUSDT with 524 records. Progress: 64.32%
+2025-06-07 21:33:40,036 - INFO - Downloaded ARBUSDT with 524 records. Progress: 64.57%
+2025-06-07 21:33:40,620 - INFO - Downloaded RDNTUSDT with 524 records. Progress: 64.82%
+2025-06-07 21:33:41,211 - INFO - Downloaded WBTCUSDT with 524 records. Progress: 65.08%
+2025-06-07 21:33:41,914 - INFO - Downloaded EDUUSDT with 524 records. Progress: 65.33%
+2025-06-07 21:33:42,541 - INFO - Downloaded SUIUSDT with 524 records. Progress: 65.58%
+2025-06-07 21:33:43,150 - INFO - Downloaded PEPEUSDT with 524 records. Progress: 65.83%
+2025-06-07 21:33:44,314 - INFO - Downloaded FLOKIUSDT with 524 records. Progress: 66.08%
+2025-06-07 21:33:45,252 - INFO - Downloaded MAVUSDT with 524 records. Progress: 66.33%
+2025-06-07 21:33:45,839 - INFO - Downloaded PENDLEUSDT with 524 records. Progress: 66.58%
+2025-06-07 21:33:46,534 - INFO - Downloaded ARKMUSDT with 524 records. Progress: 66.83%
+2025-06-07 21:33:47,173 - INFO - Downloaded WBETHUSDT with 524 records. Progress: 67.09%
+2025-06-07 21:33:47,784 - INFO - Downloaded WLDUSDT with 524 records. Progress: 67.34%
+2025-06-07 21:33:48,423 - INFO - Downloaded FDUSDUSDT with 524 records. Progress: 67.59%
+2025-06-07 21:33:49,158 - INFO - Downloaded SEIUSDT with 524 records. Progress: 67.84%
+2025-06-07 21:33:49,876 - INFO - Downloaded CYBERUSDT with 524 records. Progress: 68.09%
+2025-06-07 21:33:50,607 - INFO - Downloaded ARKUSDT with 524 records. Progress: 68.34%
+2025-06-07 21:33:51,321 - INFO - Downloaded IQUSDT with 524 records. Progress: 68.59%
+2025-06-07 21:33:51,951 - INFO - Downloaded NTRNUSDT with 524 records. Progress: 68.84%
+2025-06-07 21:33:52,655 - INFO - Downloaded TIAUSDT with 524 records. Progress: 69.10%
+2025-06-07 21:33:53,468 - INFO - Downloaded MEMEUSDT with 524 records. Progress: 69.35%
+2025-06-07 21:33:54,297 - INFO - Downloaded ORDIUSDT with 524 records. Progress: 69.60%
+2025-06-07 21:33:54,933 - INFO - Downloaded BEAMXUSDT with 524 records. Progress: 69.85%
+2025-06-07 21:33:55,521 - INFO - Downloaded PIVXUSDT with 524 records. Progress: 70.10%
+2025-06-07 21:33:56,165 - INFO - Downloaded VICUSDT with 524 records. Progress: 70.35%
+2025-06-07 21:33:56,981 - INFO - Downloaded BLURUSDT with 524 records. Progress: 70.60%
+2025-06-07 21:33:57,546 - INFO - Downloaded VANRYUSDT with 524 records. Progress: 70.85%
+2025-06-07 21:33:58,235 - INFO - Downloaded AEURUSDT with 524 records. Progress: 71.11%
+2025-06-07 21:33:58,809 - INFO - Downloaded JTOUSDT with 524 records. Progress: 71.36%
+2025-06-07 21:33:59,412 - INFO - Downloaded 1000SATSUSDT with 524 records. Progress: 71.61%
+2025-06-07 21:34:00,193 - INFO - Downloaded BONKUSDT with 524 records. Progress: 71.86%
+2025-06-07 21:34:00,830 - INFO - Downloaded ACEUSDT with 524 records. Progress: 72.11%
+2025-06-07 21:34:01,725 - INFO - Downloaded NFPUSDT with 524 records. Progress: 72.36%
+2025-06-07 21:34:02,896 - INFO - Downloaded AIUSDT with 521 records. Progress: 72.61%
+2025-06-07 21:34:03,508 - INFO - Downloaded XAIUSDT with 516 records. Progress: 72.86%
+2025-06-07 21:34:04,097 - INFO - Downloaded MANTAUSDT with 507 records. Progress: 73.12%
+2025-06-07 21:34:04,702 - INFO - Downloaded ALTUSDT with 500 records. Progress: 73.37%
+2025-06-07 21:34:05,343 - INFO - Downloaded JUPUSDT with 494 records. Progress: 73.62%
+2025-06-07 21:34:05,943 - INFO - Downloaded PYTHUSDT with 492 records. Progress: 73.87%
+2025-06-07 21:34:06,525 - INFO - Downloaded RONINUSDT with 489 records. Progress: 74.12%
+2025-06-07 21:34:07,096 - INFO - Downloaded DYMUSDT with 488 records. Progress: 74.37%
+2025-06-07 21:34:07,698 - INFO - Downloaded PIXELUSDT with 475 records. Progress: 74.62%
+2025-06-07 21:34:08,286 - INFO - Downloaded STRKUSDT with 474 records. Progress: 74.87%
+2025-06-07 21:34:08,861 - INFO - Downloaded PORTALUSDT with 465 records. Progress: 75.13%
+2025-06-07 21:34:09,428 - INFO - Downloaded AXLUSDT with 464 records. Progress: 75.38%
+2025-06-07 21:34:09,989 - INFO - Downloaded WIFUSDT with 460 records. Progress: 75.63%
+2025-06-07 21:34:10,550 - INFO - Downloaded METISUSDT with 454 records. Progress: 75.88%
+2025-06-07 21:34:11,853 - INFO - Downloaded AEVOUSDT with 452 records. Progress: 76.13%
+2025-06-07 21:34:12,474 - INFO - Downloaded BOMEUSDT with 449 records. Progress: 76.38%
+2025-06-07 21:34:13,068 - INFO - Downloaded ETHFIUSDT with 447 records. Progress: 76.63%
+2025-06-07 21:34:13,933 - INFO - Downloaded ENAUSDT with 432 records. Progress: 76.88%
+2025-06-07 21:34:14,673 - INFO - Downloaded WUSDT with 431 records. Progress: 77.14%
+2025-06-07 21:34:15,237 - INFO - Downloaded TNSRUSDT with 426 records. Progress: 77.39%
+2025-06-07 21:34:15,888 - INFO - Downloaded SAGAUSDT with 425 records. Progress: 77.64%
+2025-06-07 21:34:16,602 - INFO - Downloaded TAOUSDT with 423 records. Progress: 77.89%
+2025-06-07 21:34:17,600 - INFO - Downloaded OMNIUSDT with 417 records. Progress: 78.14%
+2025-06-07 21:34:18,245 - INFO - Downloaded REZUSDT with 404 records. Progress: 78.39%
+2025-06-07 21:34:19,259 - INFO - Downloaded BBUSDT with 391 records. Progress: 78.64%
+2025-06-07 21:34:19,874 - INFO - Downloaded NOTUSDT with 388 records. Progress: 78.89%
+2025-06-07 21:34:20,590 - INFO - Downloaded IOUSDT with 362 records. Progress: 79.15%
+2025-06-07 21:34:21,280 - INFO - Downloaded ZKUSDT with 356 records. Progress: 79.40%
+2025-06-07 21:34:22,125 - INFO - Downloaded LISTAUSDT with 353 records. Progress: 79.65%
+2025-06-07 21:34:22,741 - INFO - Downloaded ZROUSDT with 353 records. Progress: 79.90%
+2025-06-07 21:34:23,561 - INFO - Downloaded GUSDT with 324 records. Progress: 80.15%
+2025-06-07 21:34:24,203 - INFO - Downloaded BANANAUSDT with 323 records. Progress: 80.40%
+2025-06-07 21:34:24,796 - INFO - Downloaded RENDERUSDT with 317 records. Progress: 80.65%
+2025-06-07 21:34:25,599 - INFO - Downloaded TONUSDT with 304 records. Progress: 80.90%
+2025-06-07 21:34:26,172 - INFO - Downloaded DOGSUSDT with 286 records. Progress: 81.16%
+2025-06-07 21:34:27,099 - INFO - Downloaded EURIUSDT with 284 records. Progress: 81.41%
+2025-06-07 21:34:27,677 - INFO - Downloaded SLFUSDT with 282 records. Progress: 81.66%
+2025-06-07 21:34:28,260 - INFO - Downloaded POLUSDT with 268 records. Progress: 81.91%
+2025-06-07 21:34:29,069 - INFO - Downloaded NEIROUSDT with 265 records. Progress: 82.16%
+2025-06-07 21:34:29,685 - INFO - Downloaded TURBOUSDT with 265 records. Progress: 82.41%
+2025-06-07 21:34:30,520 - INFO - Downloaded 1MBABYDOGEUSDT with 265 records. Progress: 82.66%
+2025-06-07 21:34:31,205 - INFO - Downloaded CATIUSDT with 261 records. Progress: 82.91%
+2025-06-07 21:34:31,945 - INFO - Downloaded HMSTRUSDT with 255 records. Progress: 83.17%
+2025-06-07 21:34:32,667 - INFO - Downloaded EIGENUSDT with 250 records. Progress: 83.42%
+2025-06-07 21:34:33,274 - INFO - Downloaded SCRUSDT with 240 records. Progress: 83.67%
+2025-06-07 21:34:33,991 - INFO - Downloaded BNSOLUSDT with 234 records. Progress: 83.92%
+2025-06-07 21:34:34,820 - INFO - Downloaded LUMIAUSDT with 233 records. Progress: 84.17%
+2025-06-07 21:34:35,930 - INFO - Downloaded KAIAUSDT with 220 records. Progress: 84.42%
+2025-06-07 21:34:36,655 - INFO - Downloaded COWUSDT with 214 records. Progress: 84.67%
+2025-06-07 21:34:37,216 - INFO - Downloaded CETUSUSDT with 214 records. Progress: 84.92%
+2025-06-07 21:34:37,876 - INFO - Downloaded PNUTUSDT with 209 records. Progress: 85.18%
+2025-06-07 21:34:38,429 - INFO - Downloaded ACTUSDT with 209 records. Progress: 85.43%
+2025-06-07 21:34:38,990 - INFO - Downloaded USUALUSDT with 201 records. Progress: 85.68%
+2025-06-07 21:34:39,774 - INFO - Downloaded THEUSDT with 193 records. Progress: 85.93%
+2025-06-07 21:34:40,331 - INFO - Downloaded ACXUSDT with 184 records. Progress: 86.18%
+2025-06-07 21:34:41,016 - INFO - Downloaded ORCAUSDT with 184 records. Progress: 86.43%
+2025-06-07 21:34:42,097 - INFO - Downloaded MOVEUSDT with 181 records. Progress: 86.68%
+2025-06-07 21:34:42,809 - INFO - Downloaded MEUSDT with 180 records. Progress: 86.93%
+2025-06-07 21:34:43,605 - INFO - Downloaded VELODROMEUSDT with 177 records. Progress: 87.19%
+2025-06-07 21:34:44,202 - INFO - Downloaded VANAUSDT with 174 records. Progress: 87.44%
+2025-06-07 21:34:44,775 - INFO - Downloaded 1000CATUSDT with 173 records. Progress: 87.69%
+2025-06-07 21:34:45,323 - INFO - Downloaded PENGUUSDT with 173 records. Progress: 87.94%
+2025-06-07 21:34:46,078 - INFO - Downloaded BIOUSDT with 156 records. Progress: 88.19%
+2025-06-07 21:34:46,892 - INFO - Downloaded DUSDT with 150 records. Progress: 88.44%
+2025-06-07 21:34:47,703 - INFO - Downloaded AIXBTUSDT with 149 records. Progress: 88.69%
+2025-06-07 21:34:48,421 - INFO - Downloaded CGPTUSDT with 149 records. Progress: 88.94%
+2025-06-07 21:34:48,954 - INFO - Downloaded COOKIEUSDT with 149 records. Progress: 89.20%
+2025-06-07 21:34:49,618 - INFO - Downloaded SUSDT with 143 records. Progress: 89.45%
+2025-06-07 21:34:50,164 - INFO - Downloaded SOLVUSDT with 142 records. Progress: 89.70%
+2025-06-07 21:34:50,967 - INFO - Downloaded TRUMPUSDT with 140 records. Progress: 89.95%
+2025-06-07 21:34:51,494 - INFO - Downloaded ANIMEUSDT with 136 records. Progress: 90.20%
+2025-06-07 21:34:52,016 - INFO - Downloaded BERAUSDT with 122 records. Progress: 90.45%
+2025-06-07 21:34:52,545 - INFO - Downloaded 1000CHEEMSUSDT with 119 records. Progress: 90.70%
+2025-06-07 21:34:53,088 - INFO - Downloaded TSTUSDT with 119 records. Progress: 90.95%
+2025-06-07 21:34:53,648 - INFO - Downloaded LAYERUSDT with 117 records. Progress: 91.21%
+2025-06-07 21:34:54,544 - INFO - Downloaded HEIUSDT with 115 records. Progress: 91.46%
+2025-06-07 21:34:55,095 - INFO - Downloaded KAITOUSDT with 108 records. Progress: 91.71%
+2025-06-07 21:34:56,067 - INFO - Downloaded SHELLUSDT with 101 records. Progress: 91.96%
+2025-06-07 21:34:56,624 - INFO - Downloaded REDUSDT with 100 records. Progress: 92.21%
+2025-06-07 21:34:57,183 - INFO - Downloaded GPSUSDT with 96 records. Progress: 92.46%
+2025-06-07 21:34:58,045 - INFO - Downloaded EPICUSDT with 87 records. Progress: 92.71%
+2025-06-07 21:34:58,968 - INFO - Downloaded BMTUSDT with 82 records. Progress: 92.96%
+2025-06-07 21:34:59,515 - INFO - Downloaded FORMUSDT with 81 records. Progress: 93.22%
+2025-06-07 21:35:00,069 - INFO - Downloaded NILUSDT with 76 records. Progress: 93.47%
+2025-06-07 21:35:00,602 - INFO - Downloaded PARTIUSDT with 75 records. Progress: 93.72%
+2025-06-07 21:35:01,832 - INFO - Downloaded MUBARAKUSDT with 73 records. Progress: 93.97%
+2025-06-07 21:35:02,452 - INFO - Downloaded TUTUSDT with 73 records. Progress: 94.22%
+2025-06-07 21:35:03,008 - INFO - Downloaded BROCCOLI714USDT with 73 records. Progress: 94.47%
+2025-06-07 21:35:03,559 - INFO - Downloaded BANANAS31USDT with 73 records. Progress: 94.72%
+2025-06-07 21:35:04,289 - INFO - Downloaded GUNUSDT with 69 records. Progress: 94.97%
+2025-06-07 21:35:04,827 - INFO - Downloaded BABYUSDT with 59 records. Progress: 95.23%
+2025-06-07 21:35:05,356 - INFO - Downloaded ONDOUSDT with 58 records. Progress: 95.48%
+2025-06-07 21:35:05,923 - INFO - Downloaded BIGTIMEUSDT with 58 records. Progress: 95.73%
+2025-06-07 21:35:06,540 - INFO - Downloaded VIRTUALUSDT with 58 records. Progress: 95.98%
+2025-06-07 21:35:07,200 - INFO - Downloaded KERNELUSDT with 55 records. Progress: 96.23%
+2025-06-07 21:35:07,820 - INFO - Downloaded WCTUSDT with 54 records. Progress: 96.48%
+2025-06-07 21:35:09,001 - INFO - Downloaded HYPERUSDT with 47 records. Progress: 96.73%
+2025-06-07 21:35:09,559 - INFO - Downloaded INITUSDT with 45 records. Progress: 96.98%
+2025-06-07 21:35:10,600 - INFO - Downloaded SIGNUSDT with 41 records. Progress: 97.24%
+2025-06-07 21:35:11,137 - INFO - Downloaded STOUSDT with 37 records. Progress: 97.49%
+2025-06-07 21:35:12,185 - INFO - Downloaded SYRUPUSDT with 33 records. Progress: 97.74%
+2025-06-07 21:35:13,406 - INFO - Downloaded KMNOUSDT with 33 records. Progress: 97.99%
+2025-06-07 21:35:14,017 - INFO - Downloaded SXTUSDT with 31 records. Progress: 98.24%
+2025-06-07 21:35:14,547 - INFO - Downloaded NXPCUSDT with 24 records. Progress: 98.49%
+2025-06-07 21:35:15,598 - INFO - Downloaded AWEUSDT with 18 records. Progress: 98.74%
+2025-06-07 21:35:16,781 - INFO - Downloaded HAEDALUSDT with 18 records. Progress: 98.99%
+2025-06-07 21:35:17,311 - INFO - Downloaded USD1USDT with 17 records. Progress: 99.25%
+2025-06-07 21:35:17,847 - INFO - Downloaded HUMAUSDT with 13 records. Progress: 99.50%
+2025-06-07 21:35:18,413 - INFO - Downloaded AUSDT with 11 records. Progress: 99.75%
+2025-06-07 21:35:19,236 - INFO - Downloaded SOPHUSDT with 11 records. Progress: 100.00%
+2025-06-07 21:35:19,407 - INFO - Added 1000CATUSDT to price matrix
+2025-06-07 21:35:19,471 - INFO - Added 1000CHEEMSUSDT to price matrix
+2025-06-07 21:35:19,542 - INFO - Added 1000SATSUSDT to price matrix
+2025-06-07 21:35:19,613 - INFO - Added 1INCHUSDT to price matrix
+2025-06-07 21:35:19,673 - INFO - Added 1MBABYDOGEUSDT to price matrix
+2025-06-07 21:35:19,740 - INFO - Added AAVEUSDT to price matrix
+2025-06-07 21:35:19,790 - INFO - Added ACAUSDT to price matrix
+2025-06-07 21:35:19,817 - INFO - Added ACEUSDT to price matrix
+2025-06-07 21:35:19,877 - INFO - Added ACHUSDT to price matrix
+2025-06-07 21:35:19,958 - INFO - Added ACMUSDT to price matrix
+2025-06-07 21:35:20,024 - INFO - Added ACTUSDT to price matrix
+2025-06-07 21:35:20,093 - INFO - Added ACXUSDT to price matrix
+2025-06-07 21:35:20,163 - INFO - Added ADAUSDT to price matrix
+2025-06-07 21:35:20,233 - INFO - Added ADXUSDT to price matrix
+2025-06-07 21:35:20,299 - INFO - Added AEURUSDT to price matrix
+2025-06-07 21:35:20,354 - INFO - Added AEVOUSDT to price matrix
+2025-06-07 21:35:20,392 - INFO - Added AGLDUSDT to price matrix
+2025-06-07 21:35:20,427 - INFO - Added AIUSDT to price matrix
+2025-06-07 21:35:20,464 - INFO - Added AIXBTUSDT to price matrix
+2025-06-07 21:35:20,525 - INFO - Added ALCXUSDT to price matrix
+2025-06-07 21:35:20,583 - INFO - Added ALGOUSDT to price matrix
+2025-06-07 21:35:20,641 - INFO - Added ALICEUSDT to price matrix
+2025-06-07 21:35:20,688 - INFO - Added ALPHAUSDT to price matrix
+2025-06-07 21:35:20,726 - INFO - Added ALPINEUSDT to price matrix
+2025-06-07 21:35:20,758 - INFO - Added ALTUSDT to price matrix
+2025-06-07 21:35:20,809 - INFO - Added AMPUSDT to price matrix
+2025-06-07 21:35:20,844 - INFO - Added ANIMEUSDT to price matrix
+2025-06-07 21:35:20,883 - INFO - Added ANKRUSDT to price matrix
+2025-06-07 21:35:20,913 - INFO - Added APEUSDT to price matrix
+2025-06-07 21:35:20,953 - INFO - Added API3USDT to price matrix
+2025-06-07 21:35:20,990 - INFO - Added APTUSDT to price matrix
+2025-06-07 21:35:21,064 - INFO - Added ARBUSDT to price matrix
+2025-06-07 21:35:21,128 - INFO - Added ARDRUSDT to price matrix
+2025-06-07 21:35:21,177 - INFO - Added ARKMUSDT to price matrix
+2025-06-07 21:35:21,227 - INFO - Added ARKUSDT to price matrix
+2025-06-07 21:35:21,296 - INFO - Added ARPAUSDT to price matrix
+2025-06-07 21:35:21,369 - INFO - Added ARUSDT to price matrix
+2025-06-07 21:35:21,433 - INFO - Added ASRUSDT to price matrix
+2025-06-07 21:35:21,503 - INFO - Added ASTRUSDT to price matrix
+2025-06-07 21:35:21,558 - INFO - Added ATAUSDT to price matrix
+2025-06-07 21:35:21,597 - INFO - Added ATMUSDT to price matrix
+2025-06-07 21:35:21,643 - INFO - Added ATOMUSDT to price matrix
+2025-06-07 21:35:21,713 - INFO - Added AUCTIONUSDT to price matrix
+2025-06-07 21:35:21,764 - INFO - Added AUDIOUSDT to price matrix
+2025-06-07 21:35:21,812 - INFO - Added AUSDT to price matrix
+2025-06-07 21:35:21,879 - INFO - Added AVAUSDT to price matrix
+2025-06-07 21:35:21,947 - INFO - Added AVAXUSDT to price matrix
+2025-06-07 21:35:21,992 - INFO - Added AWEUSDT to price matrix
+2025-06-07 21:35:22,062 - INFO - Added AXLUSDT to price matrix
+2025-06-07 21:35:22,129 - INFO - Added AXSUSDT to price matrix
+2025-06-07 21:35:22,173 - INFO - Added BABYUSDT to price matrix
+2025-06-07 21:35:22,241 - INFO - Added BAKEUSDT to price matrix
+2025-06-07 21:35:22,297 - INFO - Added BANANAS31USDT to price matrix
+2025-06-07 21:35:22,356 - INFO - Added BANANAUSDT to price matrix
+2025-06-07 21:35:22,448 - INFO - Added BANDUSDT to price matrix
+2025-06-07 21:35:22,524 - INFO - Added BARUSDT to price matrix
+2025-06-07 21:35:22,594 - INFO - Added BATUSDT to price matrix
+2025-06-07 21:35:22,648 - INFO - Added BBUSDT to price matrix
+2025-06-07 21:35:22,709 - INFO - Added BCHUSDT to price matrix
+2025-06-07 21:35:22,865 - INFO - Added BEAMXUSDT to price matrix
+2025-06-07 21:35:22,972 - INFO - Added BELUSDT to price matrix
+2025-06-07 21:35:23,009 - INFO - Added BERAUSDT to price matrix
+2025-06-07 21:35:23,045 - INFO - Added BICOUSDT to price matrix
+2025-06-07 21:35:23,074 - INFO - Added BIGTIMEUSDT to price matrix
+2025-06-07 21:35:23,110 - INFO - Added BIOUSDT to price matrix
+2025-06-07 21:35:23,158 - INFO - Added BLURUSDT to price matrix
+2025-06-07 21:35:23,213 - INFO - Added BMTUSDT to price matrix
+2025-06-07 21:35:23,284 - INFO - Added BNBUSDT to price matrix
+2025-06-07 21:35:23,319 - INFO - Added BNSOLUSDT to price matrix
+2025-06-07 21:35:23,355 - INFO - Added BNTUSDT to price matrix
+2025-06-07 21:35:23,386 - INFO - Added BOMEUSDT to price matrix
+2025-06-07 21:35:23,420 - INFO - Added BONKUSDT to price matrix
+2025-06-07 21:35:23,446 - INFO - Added BROCCOLI714USDT to price matrix
+2025-06-07 21:35:23,478 - INFO - Added BSWUSDT to price matrix
+2025-06-07 21:35:23,521 - INFO - Added BTTCUSDT to price matrix
+2025-06-07 21:35:23,588 - INFO - Added C98USDT to price matrix
+2025-06-07 21:35:23,672 - INFO - Added CAKEUSDT to price matrix
+2025-06-07 21:35:23,736 - INFO - Added CATIUSDT to price matrix
+2025-06-07 21:35:23,804 - INFO - Added CELOUSDT to price matrix
+2025-06-07 21:35:23,894 - INFO - Added CELRUSDT to price matrix
+2025-06-07 21:35:23,965 - INFO - Added CETUSUSDT to price matrix
+2025-06-07 21:35:24,036 - INFO - Added CFXUSDT to price matrix
+2025-06-07 21:35:24,104 - INFO - Added CGPTUSDT to price matrix
+2025-06-07 21:35:24,175 - INFO - Added CHESSUSDT to price matrix
+2025-06-07 21:35:24,256 - INFO - Added CHRUSDT to price matrix
+2025-06-07 21:35:24,344 - INFO - Added CHZUSDT to price matrix
+2025-06-07 21:35:24,436 - INFO - Added CITYUSDT to price matrix
+2025-06-07 21:35:24,521 - INFO - Added CKBUSDT to price matrix
+2025-06-07 21:35:24,614 - INFO - Added COMPUSDT to price matrix
+2025-06-07 21:35:24,654 - INFO - Added COOKIEUSDT to price matrix
+2025-06-07 21:35:24,701 - INFO - Added COSUSDT to price matrix
+2025-06-07 21:35:24,742 - INFO - Added COTIUSDT to price matrix
+2025-06-07 21:35:24,791 - INFO - Added COWUSDT to price matrix
+2025-06-07 21:35:24,855 - INFO - Added CRVUSDT to price matrix
+2025-06-07 21:35:24,925 - INFO - Added CTKUSDT to price matrix
+2025-06-07 21:35:24,974 - INFO - Added CTSIUSDT to price matrix
+2025-06-07 21:35:25,020 - INFO - Added CVCUSDT to price matrix
+2025-06-07 21:35:25,063 - INFO - Added CVXUSDT to price matrix
+2025-06-07 21:35:25,106 - INFO - Added CYBERUSDT to price matrix
+2025-06-07 21:35:25,147 - INFO - Added DASHUSDT to price matrix
+2025-06-07 21:35:25,190 - INFO - Added DATAUSDT to price matrix
+2025-06-07 21:35:25,226 - INFO - Added DCRUSDT to price matrix
+2025-06-07 21:35:25,262 - INFO - Added DEGOUSDT to price matrix
+2025-06-07 21:35:25,320 - INFO - Added DENTUSDT to price matrix
+2025-06-07 21:35:25,404 - INFO - Added DEXEUSDT to price matrix
+2025-06-07 21:35:25,480 - INFO - Added DFUSDT to price matrix
+2025-06-07 21:35:25,549 - INFO - Added DGBUSDT to price matrix
+2025-06-07 21:35:25,595 - INFO - Added DIAUSDT to price matrix
+2025-06-07 21:35:25,640 - INFO - Added DODOUSDT to price matrix
+2025-06-07 21:35:25,703 - INFO - Added DOGEUSDT to price matrix
+2025-06-07 21:35:25,755 - INFO - Added DOGSUSDT to price matrix
+2025-06-07 21:35:25,817 - INFO - Added DOTUSDT to price matrix
+2025-06-07 21:35:25,872 - INFO - Added DUSDT to price matrix
+2025-06-07 21:35:25,937 - INFO - Added DUSKUSDT to price matrix
+2025-06-07 21:35:25,991 - INFO - Added DYDXUSDT to price matrix
+2025-06-07 21:35:26,043 - INFO - Added DYMUSDT to price matrix
+2025-06-07 21:35:26,131 - INFO - Added EDUUSDT to price matrix
+2025-06-07 21:35:26,185 - INFO - Added EGLDUSDT to price matrix
+2025-06-07 21:35:26,241 - INFO - Added EIGENUSDT to price matrix
+2025-06-07 21:35:26,287 - INFO - Added ENAUSDT to price matrix
+2025-06-07 21:35:26,341 - INFO - Added ENJUSDT to price matrix
+2025-06-07 21:35:26,389 - INFO - Added ENSUSDT to price matrix
+2025-06-07 21:35:26,433 - INFO - Added EPICUSDT to price matrix
+2025-06-07 21:35:26,486 - INFO - Added ETCUSDT to price matrix
+2025-06-07 21:35:26,537 - INFO - Added ETHFIUSDT to price matrix
+2025-06-07 21:35:26,590 - INFO - Added ETHUSDT to price matrix
+2025-06-07 21:35:26,643 - INFO - Added EURIUSDT to price matrix
+2025-06-07 21:35:26,683 - INFO - Added FARMUSDT to price matrix
+2025-06-07 21:35:26,744 - INFO - Added FDUSDUSDT to price matrix
+2025-06-07 21:35:26,805 - INFO - Added FETUSDT to price matrix
+2025-06-07 21:35:26,858 - INFO - Added FIDAUSDT to price matrix
+2025-06-07 21:35:26,917 - INFO - Added FILUSDT to price matrix
+2025-06-07 21:35:26,977 - INFO - Added FIOUSDT to price matrix
+2025-06-07 21:35:27,035 - INFO - Added FISUSDT to price matrix
+2025-06-07 21:35:27,086 - INFO - Added FLMUSDT to price matrix
+2025-06-07 21:35:27,140 - INFO - Added FLOKIUSDT to price matrix
+2025-06-07 21:35:27,198 - INFO - Added FLOWUSDT to price matrix
+2025-06-07 21:35:27,249 - INFO - Added FLUXUSDT to price matrix
+2025-06-07 21:35:27,298 - INFO - Added FORMUSDT to price matrix
+2025-06-07 21:35:27,355 - INFO - Added FORTHUSDT to price matrix
+2025-06-07 21:35:27,425 - INFO - Added FTTUSDT to price matrix
+2025-06-07 21:35:27,485 - INFO - Added FUNUSDT to price matrix
+2025-06-07 21:35:27,558 - INFO - Added FXSUSDT to price matrix
+2025-06-07 21:35:27,606 - INFO - Added GALAUSDT to price matrix
+2025-06-07 21:35:27,664 - INFO - Added GASUSDT to price matrix
+2025-06-07 21:35:27,705 - INFO - Added GHSTUSDT to price matrix
+2025-06-07 21:35:27,798 - INFO - Added GLMRUSDT to price matrix
+2025-06-07 21:35:27,892 - INFO - Added GLMUSDT to price matrix
+2025-06-07 21:35:27,984 - INFO - Added GMTUSDT to price matrix
+2025-06-07 21:35:28,071 - INFO - Added GMXUSDT to price matrix
+2025-06-07 21:35:28,153 - INFO - Added GNOUSDT to price matrix
+2025-06-07 21:35:28,214 - INFO - Added GNSUSDT to price matrix
+2025-06-07 21:35:28,274 - INFO - Added GPSUSDT to price matrix
+2025-06-07 21:35:28,333 - INFO - Added GRTUSDT to price matrix
+2025-06-07 21:35:28,410 - INFO - Added GTCUSDT to price matrix
+2025-06-07 21:35:28,471 - INFO - Added GUNUSDT to price matrix
+2025-06-07 21:35:28,553 - INFO - Added GUSDT to price matrix
+2025-06-07 21:35:28,627 - INFO - Added HAEDALUSDT to price matrix
+2025-06-07 21:35:28,721 - INFO - Added HBARUSDT to price matrix
+2025-06-07 21:35:28,783 - INFO - Added HEIUSDT to price matrix
+2025-06-07 21:35:28,851 - INFO - Added HFTUSDT to price matrix
+2025-06-07 21:35:28,933 - INFO - Added HIFIUSDT to price matrix
+2025-06-07 21:35:29,021 - INFO - Added HIGHUSDT to price matrix
+2025-06-07 21:35:29,122 - INFO - Added HIVEUSDT to price matrix
+2025-06-07 21:35:29,201 - INFO - Added HMSTRUSDT to price matrix
+2025-06-07 21:35:29,284 - INFO - Added HOOKUSDT to price matrix
+2025-06-07 21:35:29,378 - INFO - Added HOTUSDT to price matrix
+2025-06-07 21:35:29,446 - INFO - Added HUMAUSDT to price matrix
+2025-06-07 21:35:29,516 - INFO - Added HYPERUSDT to price matrix
+2025-06-07 21:35:29,601 - INFO - Added ICPUSDT to price matrix
+2025-06-07 21:35:29,694 - INFO - Added ICXUSDT to price matrix
+2025-06-07 21:35:29,784 - INFO - Added IDEXUSDT to price matrix
+2025-06-07 21:35:29,957 - INFO - Added IDUSDT to price matrix
+2025-06-07 21:35:30,015 - INFO - Added ILVUSDT to price matrix
+2025-06-07 21:35:30,051 - INFO - Added IMXUSDT to price matrix
+2025-06-07 21:35:30,089 - INFO - Added INITUSDT to price matrix
+2025-06-07 21:35:30,129 - INFO - Added INJUSDT to price matrix
+2025-06-07 21:35:30,164 - INFO - Added IOSTUSDT to price matrix
+2025-06-07 21:35:30,224 - INFO - Added IOTAUSDT to price matrix
+2025-06-07 21:35:30,278 - INFO - Added IOTXUSDT to price matrix
+2025-06-07 21:35:30,328 - INFO - Added IOUSDT to price matrix
+2025-06-07 21:35:30,382 - INFO - Added IQUSDT to price matrix
+2025-06-07 21:35:30,436 - INFO - Added JASMYUSDT to price matrix
+2025-06-07 21:35:30,496 - INFO - Added JOEUSDT to price matrix
+2025-06-07 21:35:30,556 - INFO - Added JSTUSDT to price matrix
+2025-06-07 21:35:30,594 - INFO - Added JTOUSDT to price matrix
+2025-06-07 21:35:30,648 - INFO - Added JUPUSDT to price matrix
+2025-06-07 21:35:30,690 - INFO - Added JUVUSDT to price matrix
+2025-06-07 21:35:30,722 - INFO - Added KAIAUSDT to price matrix
+2025-06-07 21:35:30,756 - INFO - Added KAITOUSDT to price matrix
+2025-06-07 21:35:30,792 - INFO - Added KAVAUSDT to price matrix
+2025-06-07 21:35:30,820 - INFO - Added KDAUSDT to price matrix
+2025-06-07 21:35:30,850 - INFO - Added KERNELUSDT to price matrix
+2025-06-07 21:35:30,896 - INFO - Added KMDUSDT to price matrix
+2025-06-07 21:35:30,931 - INFO - Added KMNOUSDT to price matrix
+2025-06-07 21:35:31,011 - INFO - Added KNCUSDT to price matrix
+2025-06-07 21:35:31,129 - INFO - Added KSMUSDT to price matrix
+2025-06-07 21:35:31,216 - INFO - Added LAYERUSDT to price matrix
+2025-06-07 21:35:31,281 - INFO - Added LAZIOUSDT to price matrix
+2025-06-07 21:35:31,336 - INFO - Added LDOUSDT to price matrix
+2025-06-07 21:35:31,395 - INFO - Added LEVERUSDT to price matrix
+2025-06-07 21:35:31,439 - INFO - Added LINKUSDT to price matrix
+2025-06-07 21:35:31,472 - INFO - Added LISTAUSDT to price matrix
+2025-06-07 21:35:31,517 - INFO - Added LOKAUSDT to price matrix
+2025-06-07 21:35:31,589 - INFO - Added LPTUSDT to price matrix
+2025-06-07 21:35:31,665 - INFO - Added LQTYUSDT to price matrix
+2025-06-07 21:35:31,748 - INFO - Added LRCUSDT to price matrix
+2025-06-07 21:35:31,835 - INFO - Added LSKUSDT to price matrix
+2025-06-07 21:35:31,905 - INFO - Added LTCUSDT to price matrix
+2025-06-07 21:35:31,993 - INFO - Added LTOUSDT to price matrix
+2025-06-07 21:35:32,061 - INFO - Added LUMIAUSDT to price matrix
+2025-06-07 21:35:32,131 - INFO - Added LUNAUSDT to price matrix
+2025-06-07 21:35:32,197 - INFO - Added LUNCUSDT to price matrix
+2025-06-07 21:35:32,275 - INFO - Added MAGICUSDT to price matrix
+2025-06-07 21:35:32,373 - INFO - Added MANAUSDT to price matrix
+2025-06-07 21:35:32,445 - INFO - Added MANTAUSDT to price matrix
+2025-06-07 21:35:32,528 - INFO - Added MASKUSDT to price matrix
+2025-06-07 21:35:32,618 - INFO - Added MAVUSDT to price matrix
+2025-06-07 21:35:32,688 - INFO - Added MBLUSDT to price matrix
+2025-06-07 21:35:32,766 - INFO - Added MBOXUSDT to price matrix
+2025-06-07 21:35:32,855 - INFO - Added MDTUSDT to price matrix
+2025-06-07 21:35:32,940 - INFO - Added MEMEUSDT to price matrix
+2025-06-07 21:35:33,002 - INFO - Added METISUSDT to price matrix
+2025-06-07 21:35:33,044 - INFO - Added MEUSDT to price matrix
+2025-06-07 21:35:33,094 - INFO - Added MINAUSDT to price matrix
+2025-06-07 21:35:33,640 - INFO - Added MKRUSDT to price matrix
+2025-06-07 21:35:33,727 - INFO - Added MLNUSDT to price matrix
+2025-06-07 21:35:33,862 - INFO - Added MOVEUSDT to price matrix
+2025-06-07 21:35:33,957 - INFO - Added MOVRUSDT to price matrix
+2025-06-07 21:35:34,634 - INFO - Added MTLUSDT to price matrix
+2025-06-07 21:35:35,131 - INFO - Added MUBARAKUSDT to price matrix
+2025-06-07 21:35:35,994 - INFO - Added NEARUSDT to price matrix
+2025-06-07 21:35:36,077 - INFO - Added NEIROUSDT to price matrix
+2025-06-07 21:35:36,120 - INFO - Added NEOUSDT to price matrix
+2025-06-07 21:35:36,172 - INFO - Added NEXOUSDT to price matrix
+2025-06-07 21:35:36,205 - INFO - Added NFPUSDT to price matrix
+2025-06-07 21:35:36,246 - INFO - Added NILUSDT to price matrix
+2025-06-07 21:35:36,297 - INFO - Added NKNUSDT to price matrix
+2025-06-07 21:35:36,381 - INFO - Added NMRUSDT to price matrix
+2025-06-07 21:35:36,470 - INFO - Added NOTUSDT to price matrix
+2025-06-07 21:35:36,544 - INFO - Added NTRNUSDT to price matrix
+2025-06-07 21:35:36,606 - INFO - Added NXPCUSDT to price matrix
+2025-06-07 21:35:36,697 - INFO - Added OGNUSDT to price matrix
+2025-06-07 21:35:36,781 - INFO - Added OGUSDT to price matrix
+2025-06-07 21:35:36,841 - INFO - Added OMNIUSDT to price matrix
+2025-06-07 21:35:36,913 - INFO - Added OMUSDT to price matrix
+2025-06-07 21:35:36,981 - INFO - Added ONDOUSDT to price matrix
+2025-06-07 21:35:37,042 - INFO - Added ONEUSDT to price matrix
+2025-06-07 21:35:37,108 - INFO - Added ONGUSDT to price matrix
+2025-06-07 21:35:37,169 - INFO - Added ONTUSDT to price matrix
+2025-06-07 21:35:37,231 - INFO - Added OPUSDT to price matrix
+2025-06-07 21:35:37,292 - INFO - Added ORCAUSDT to price matrix
+2025-06-07 21:35:37,346 - INFO - Added ORDIUSDT to price matrix
+2025-06-07 21:35:37,406 - INFO - Added OSMOUSDT to price matrix
+2025-06-07 21:35:37,476 - INFO - Added OXTUSDT to price matrix
+2025-06-07 21:35:37,524 - INFO - Added PARTIUSDT to price matrix
+2025-06-07 21:35:37,611 - INFO - Added PAXGUSDT to price matrix
+2025-06-07 21:35:37,673 - INFO - Added PENDLEUSDT to price matrix
+2025-06-07 21:35:37,738 - INFO - Added PENGUUSDT to price matrix
+2025-06-07 21:35:37,801 - INFO - Added PEOPLEUSDT to price matrix
+2025-06-07 21:35:37,882 - INFO - Added PEPEUSDT to price matrix
+2025-06-07 21:35:37,961 - INFO - Added PERPUSDT to price matrix
+2025-06-07 21:35:38,026 - INFO - Added PHAUSDT to price matrix
+2025-06-07 21:35:38,106 - INFO - Added PHBUSDT to price matrix
+2025-06-07 21:35:38,181 - INFO - Added PIVXUSDT to price matrix
+2025-06-07 21:35:38,243 - INFO - Added PIXELUSDT to price matrix
+2025-06-07 21:35:38,304 - INFO - Added PNUTUSDT to price matrix
+2025-06-07 21:35:38,361 - INFO - Added POLUSDT to price matrix
+2025-06-07 21:35:38,423 - INFO - Added POLYXUSDT to price matrix
+2025-06-07 21:35:38,503 - INFO - Added PONDUSDT to price matrix
+2025-06-07 21:35:38,571 - INFO - Added PORTALUSDT to price matrix
+2025-06-07 21:35:38,641 - INFO - Added PORTOUSDT to price matrix
+2025-06-07 21:35:38,703 - INFO - Added POWRUSDT to price matrix
+2025-06-07 21:35:38,766 - INFO - Added PROMUSDT to price matrix
+2025-06-07 21:35:38,977 - INFO - Added PSGUSDT to price matrix
+2025-06-07 21:35:39,041 - INFO - Added PUNDIXUSDT to price matrix
+2025-06-07 21:35:39,122 - INFO - Added PYRUSDT to price matrix
+2025-06-07 21:35:39,188 - INFO - Added PYTHUSDT to price matrix
+2025-06-07 21:35:39,241 - INFO - Added QIUSDT to price matrix
+2025-06-07 21:35:39,320 - INFO - Added QKCUSDT to price matrix
+2025-06-07 21:35:39,478 - INFO - Added QNTUSDT to price matrix
+2025-06-07 21:35:39,572 - INFO - Added QTUMUSDT to price matrix
+2025-06-07 21:35:39,642 - INFO - Added QUICKUSDT to price matrix
+2025-06-07 21:35:39,705 - INFO - Added RADUSDT to price matrix
+2025-06-07 21:35:39,773 - INFO - Added RAREUSDT to price matrix
+2025-06-07 21:35:39,834 - INFO - Added RAYUSDT to price matrix
+2025-06-07 21:35:39,911 - INFO - Added RDNTUSDT to price matrix
+2025-06-07 21:35:39,971 - INFO - Added REDUSDT to price matrix
+2025-06-07 21:35:40,031 - INFO - Added REIUSDT to price matrix
+2025-06-07 21:35:40,091 - INFO - Added RENDERUSDT to price matrix
+2025-06-07 21:35:40,152 - INFO - Added REQUSDT to price matrix
+2025-06-07 21:35:40,220 - INFO - Added REZUSDT to price matrix
+2025-06-07 21:35:40,281 - INFO - Added RIFUSDT to price matrix
+2025-06-07 21:35:40,371 - INFO - Added RLCUSDT to price matrix
+2025-06-07 21:35:40,449 - INFO - Added RONINUSDT to price matrix
+2025-06-07 21:35:40,522 - INFO - Added ROSEUSDT to price matrix
+2025-06-07 21:35:40,588 - INFO - Added RPLUSDT to price matrix
+2025-06-07 21:35:40,652 - INFO - Added RSRUSDT to price matrix
+2025-06-07 21:35:40,740 - INFO - Added RUNEUSDT to price matrix
+2025-06-07 21:35:40,818 - INFO - Added RVNUSDT to price matrix
+2025-06-07 21:35:40,891 - INFO - Added SAGAUSDT to price matrix
+2025-06-07 21:35:40,972 - INFO - Added SANDUSDT to price matrix
+2025-06-07 21:35:41,053 - INFO - Added SANTOSUSDT to price matrix
+2025-06-07 21:35:41,146 - INFO - Added SCRTUSDT to price matrix
+2025-06-07 21:35:41,186 - INFO - Added SCRUSDT to price matrix
+2025-06-07 21:35:41,236 - INFO - Added SCUSDT to price matrix
+2025-06-07 21:35:41,281 - INFO - Added SEIUSDT to price matrix
+2025-06-07 21:35:41,326 - INFO - Added SFPUSDT to price matrix
+2025-06-07 21:35:41,362 - INFO - Added SHELLUSDT to price matrix
+2025-06-07 21:35:41,417 - INFO - Added SHIBUSDT to price matrix
+2025-06-07 21:35:41,453 - INFO - Added SIGNUSDT to price matrix
+2025-06-07 21:35:41,531 - INFO - Added SKLUSDT to price matrix
+2025-06-07 21:35:41,594 - INFO - Added SLFUSDT to price matrix
+2025-06-07 21:35:41,669 - INFO - Added SLPUSDT to price matrix
+2025-06-07 21:35:41,741 - INFO - Added SNXUSDT to price matrix
+2025-06-07 21:35:41,811 - INFO - Added SOLUSDT to price matrix
+2025-06-07 21:35:41,871 - INFO - Added SOLVUSDT to price matrix
+2025-06-07 21:35:41,924 - INFO - Added SOPHUSDT to price matrix
+2025-06-07 21:35:41,991 - INFO - Added SPELLUSDT to price matrix
+2025-06-07 21:35:42,056 - INFO - Added SSVUSDT to price matrix
+2025-06-07 21:35:42,123 - INFO - Added STEEMUSDT to price matrix
+2025-06-07 21:35:42,186 - INFO - Added STGUSDT to price matrix
+2025-06-07 21:35:42,276 - INFO - Added STORJUSDT to price matrix
+2025-06-07 21:35:42,341 - INFO - Added STOUSDT to price matrix
+2025-06-07 21:35:42,419 - INFO - Added STRAXUSDT to price matrix
+2025-06-07 21:35:42,483 - INFO - Added STRKUSDT to price matrix
+2025-06-07 21:35:42,548 - INFO - Added STXUSDT to price matrix
+2025-06-07 21:35:42,602 - INFO - Added SUIUSDT to price matrix
+2025-06-07 21:35:42,691 - INFO - Added SUNUSDT to price matrix
+2025-06-07 21:35:42,770 - INFO - Added SUPERUSDT to price matrix
+2025-06-07 21:35:42,823 - INFO - Added SUSDT to price matrix
+2025-06-07 21:35:42,901 - INFO - Added SUSHIUSDT to price matrix
+2025-06-07 21:35:42,971 - INFO - Added SXPUSDT to price matrix
+2025-06-07 21:35:43,024 - INFO - Added SXTUSDT to price matrix
+2025-06-07 21:35:43,091 - INFO - Added SYNUSDT to price matrix
+2025-06-07 21:35:43,147 - INFO - Added SYRUPUSDT to price matrix
+2025-06-07 21:35:43,211 - INFO - Added SYSUSDT to price matrix
+2025-06-07 21:35:43,271 - INFO - Added TAOUSDT to price matrix
+2025-06-07 21:35:43,351 - INFO - Added TFUELUSDT to price matrix
+2025-06-07 21:35:43,424 - INFO - Added THETAUSDT to price matrix
+2025-06-07 21:35:43,483 - INFO - Added THEUSDT to price matrix
+2025-06-07 21:35:43,558 - INFO - Added TIAUSDT to price matrix
+2025-06-07 21:35:43,625 - INFO - Added TKOUSDT to price matrix
+2025-06-07 21:35:43,702 - INFO - Added TLMUSDT to price matrix
+2025-06-07 21:35:43,765 - INFO - Added TNSRUSDT to price matrix
+2025-06-07 21:35:43,824 - INFO - Added TONUSDT to price matrix
+2025-06-07 21:35:43,907 - INFO - Added TRBUSDT to price matrix
+2025-06-07 21:35:43,968 - INFO - Added TRUMPUSDT to price matrix
+2025-06-07 21:35:44,066 - INFO - Added TRUUSDT to price matrix
+2025-06-07 21:35:44,153 - INFO - Added TRXUSDT to price matrix
+2025-06-07 21:35:44,213 - INFO - Added TSTUSDT to price matrix
+2025-06-07 21:35:44,271 - INFO - Added TURBOUSDT to price matrix
+2025-06-07 21:35:44,335 - INFO - Added TUSDT to price matrix
+2025-06-07 21:35:44,396 - INFO - Added TUTUSDT to price matrix
+2025-06-07 21:35:44,481 - INFO - Added TWTUSDT to price matrix
+2025-06-07 21:35:44,551 - INFO - Added UMAUSDT to price matrix
+2025-06-07 21:35:44,633 - INFO - Added UNIUSDT to price matrix
+2025-06-07 21:35:44,699 - INFO - Added USD1USDT to price matrix
+2025-06-07 21:35:44,771 - INFO - Added USDCUSDT to price matrix
+2025-06-07 21:35:44,851 - INFO - Added USDTDAI to price matrix
+2025-06-07 21:35:44,921 - INFO - Added USTCUSDT to price matrix
+2025-06-07 21:35:44,994 - INFO - Added USUALUSDT to price matrix
+2025-06-07 21:35:45,071 - INFO - Added UTKUSDT to price matrix
+2025-06-07 21:35:45,135 - INFO - Added VANAUSDT to price matrix
+2025-06-07 21:35:45,231 - INFO - Added VANRYUSDT to price matrix
+2025-06-07 21:35:45,312 - INFO - Added VELODROMEUSDT to price matrix
+2025-06-07 21:35:45,383 - INFO - Added VETUSDT to price matrix
+2025-06-07 21:35:45,452 - INFO - Added VICUSDT to price matrix
+2025-06-07 21:35:45,521 - INFO - Added VIRTUALUSDT to price matrix
+2025-06-07 21:35:45,586 - INFO - Added VOXELUSDT to price matrix
+2025-06-07 21:35:45,658 - INFO - Added VTHOUSDT to price matrix
+2025-06-07 21:35:45,730 - INFO - Added WANUSDT to price matrix
+2025-06-07 21:35:45,801 - INFO - Added WAXPUSDT to price matrix
+2025-06-07 21:35:45,871 - INFO - Added WBETHUSDT to price matrix
+2025-06-07 21:35:45,947 - INFO - Added WBTCUSDT to price matrix
+2025-06-07 21:35:46,001 - INFO - Added WCTUSDT to price matrix
+2025-06-07 21:35:46,063 - INFO - Added WIFUSDT to price matrix
+2025-06-07 21:35:46,176 - INFO - Added WINUSDT to price matrix
+2025-06-07 21:35:46,256 - INFO - Added WLDUSDT to price matrix
+2025-06-07 21:35:46,334 - INFO - Added WOOUSDT to price matrix
+2025-06-07 21:35:46,406 - INFO - Added WUSDT to price matrix
+2025-06-07 21:35:46,502 - INFO - Added XAIUSDT to price matrix
+2025-06-07 21:35:46,572 - INFO - Added XECUSDT to price matrix
+2025-06-07 21:35:46,730 - INFO - Added XLMUSDT to price matrix
+2025-06-07 21:35:46,801 - INFO - Added XNOUSDT to price matrix
+2025-06-07 21:35:46,850 - INFO - Added XRPUSDT to price matrix
+2025-06-07 21:35:46,915 - INFO - Added XTZUSDT to price matrix
+2025-06-07 21:35:46,982 - INFO - Added XVGUSDT to price matrix
+2025-06-07 21:35:47,052 - INFO - Added XVSUSDT to price matrix
+2025-06-07 21:35:47,131 - INFO - Added YFIUSDT to price matrix
+2025-06-07 21:35:47,196 - INFO - Added YGGUSDT to price matrix
+2025-06-07 21:35:47,286 - INFO - Added ZECUSDT to price matrix
+2025-06-07 21:35:47,359 - INFO - Added ZENUSDT to price matrix
+2025-06-07 21:35:47,448 - INFO - Added ZILUSDT to price matrix
+2025-06-07 21:35:47,526 - INFO - Added ZKUSDT to price matrix
+2025-06-07 21:35:47,614 - INFO - Added ZROUSDT to price matrix
+2025-06-07 21:35:47,730 - INFO - Added ZRXUSDT to price matrix
+2025-06-07 21:35:48,351 - INFO - Price matrix saved to binance_data\price_matrix_1d_close.csv
