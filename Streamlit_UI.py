@@ -89,15 +89,15 @@ def main():
                     # Display results using Plotly
                     if show_graph:
                         fig1 = go.Figure()
-                        fig1.add_trace(go.Scatter(x=pd.to_datetime(trades_df.index.astype(int), unit='ms'), y=trades_df["Z Score"],
+                        fig1.add_trace(go.Scatter(x=pd.to_datetime(trades_df.index.astype(float), unit='ms'), y=trades_df["Z Score"],
                                             mode='lines', name='Z Score'))
                         fig1.update_layout(title="ZScore Over Time")
                         st.plotly_chart(fig1, use_container_width=True)
                         
                         fig2 = go.Figure()
-                        fig2.add_trace(go.Scatter(x=pd.to_datetime(trades_df.index.astype(int), unit='ms'), y=trades_df["Wallet"],
+                        fig2.add_trace(go.Scatter(x=pd.to_datetime(trades_df.index.astype(float), unit='ms'), y=trades_df["Wallet"],
                                             mode='lines', name='Strategy Wallet'))
-                        fig2.add_trace(go.Scatter(x=pd.to_datetime(trades_df.index.astype(int), unit='ms'), y=trades_df["Hodling Wallet"],
+                        fig2.add_trace(go.Scatter(x=pd.to_datetime(trades_df.index.astype(float), unit='ms'), y=trades_df["Hodling Wallet"],
                                             mode='lines', name='BTC Hodl'))
                         fig2.update_layout(title="Strategy Performance vs BTC Hold")
                         st.plotly_chart(fig2, use_container_width=True)
@@ -173,13 +173,13 @@ def main():
                      # Display results using Plotly
                     if show_graph:
                         fig1 = go.Figure()
-                        fig1.add_trace(go.Scatter(x=pd.to_datetime(trades_df.index.astype(int), unit='ms'), y=trades_df["Z Score"],
+                        fig1.add_trace(go.Scatter(x=pd.to_datetime(trades_df.index.astype(float), unit='ms'), y=trades_df["Z Score"],
                                             mode='lines', name='Z Score'))
                         fig1.update_layout(title="ZScore Over Time")
                         st.plotly_chart(fig1, use_container_width=True)
                         
                         fig2 = go.Figure()
-                        fig2.add_trace(go.Scatter(x=pd.to_datetime(trades_df.index.astype(int), unit='ms'), y=trades_df["Wallet"],
+                        fig2.add_trace(go.Scatter(x=pd.to_datetime(trades_df.index.astype(float), unit='ms'), y=trades_df["Wallet"],
                                             mode='lines', name='Strategy Wallet'))
                         #fig2.add_trace(go.Scatter(x=pd.to_datetime(trades_df.index.astype(int), unit='ms'), y=trades_df["Hodling Wallet"],
                         #                    mode='lines', name='BTC Hodl'))

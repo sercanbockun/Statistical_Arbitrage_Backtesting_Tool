@@ -20,7 +20,7 @@ from pair_finder import StatisticalArbitragePairFinder
 class Statistical_Arbitrage():
 
     # Parameters are used to find the best parameters in the grid search that maximizes sharpe_ratio
-    parameter_search_range= {"z_score_thresh": list(map(lambda x: x/10.0, range(5,36,5))), "lookback_window": range(10,131,10)}
+    parameter_search_range= {"z_score_thresh": list(map(lambda x: x/10.0, range(20,21,5))), "lookback_window": range(50,51,10)}
     params_ = list(product(*parameter_search_range.values()))    
 
     def __init__(self, price_matrix, fee_rate, time_trend, quadratic_time_trend, max_pairs = 50, max_per_asset = 2 ):
@@ -50,7 +50,7 @@ class Statistical_Arbitrage():
         indexes = price_matrix.index.values
         index_steps = indexes[-1]-indexes[-2]    
     
-        price_matrix_ = price_matrix.loc[(start_time - 2*index_steps*max_period):end_time, :]
+        price_matrix_ = price_matrix.loc[(start_time - 4*index_steps*max_period):end_time, :]
         # Pozisyona girilmediği zamanlarda günlük faize yatırdığımızı varsatyalım?
         
         trades_df["Price_1"] = price_matrix_[pair_1]
@@ -66,13 +66,29 @@ class Statistical_Arbitrage():
         trades_df["Return on Long"] = (trades_df["Price_1 % Change"] - trades_df["Price_2 % Change"])/2 
     
         if time_trend == False and quadratic_time_trend == False:
-            roll_reg = RollingOLS.from_formula('Price_1 ~ Price_2', window= lookback_window, data=trades_df)
-            model = roll_reg.fit()
-            parameters = model.params
-          #  print(parameters)
-            trades_df["distance"] = trades_df["Price_1"] - trades_df["Price_2"]*parameters["Price_2"] - parameters["Intercept"]
-            trades_df["std"] = trades_df["distance"].rolling(lookback_window).std()
-            trades_df["Z Score"] = (trades_df["distance"] -  trades_df["distance"].rolling(lookback_window).mean()) /trades_df["std"]
+            # Create normalized price series
+              # Get the price h periods ago (base price for normalization)
+            base_price_1 = trades_df["Price_1"].shift(lookback_window)
+            base_price_2 = trades_df["Price_2"].shift(lookback_window)
+            
+            # Create normalized price series: current price / price h periods ago
+            normalized_price_1 = trades_df["Price_1"] / base_price_1
+            normalized_price_2 = trades_df["Price_2"] / base_price_2
+            
+            # Calculate normalized differences: d_t = P̂^A_{t-i} - P̂^B_{t-i}
+            # Here we use the latest normalized difference (i=0, so current normalized prices)
+            normalized_diff = normalized_price_1 - normalized_price_2
+            
+            # Calculate rolling mean and std of normalized differences over the formation period
+            rolling_mean = normalized_diff.rolling(window=lookback_window).mean()
+            rolling_std = normalized_diff.rolling(window=lookback_window).std()
+            
+            # Store values in the dataframe
+            trades_df["distance"] = normalized_diff  # This is now the normalized difference d_t
+            trades_df["std"] = rolling_std           # Standard deviation σ_d
+            
+            # Calculate z-score: z_t = (d_t - μ_d) / σ_d
+            trades_df["Z Score"] = (normalized_diff - rolling_mean) / rolling_std
             
         if time_trend == True and quadratic_time_trend == False:
             trades_df['Time'] = range(len(trades_df))
@@ -101,13 +117,13 @@ class Statistical_Arbitrage():
         trades_df = trades_df.loc[start_time:end_time, :]        
         trades_df.loc[trades_df[trades_df["Z Score"] <= -1* z_score_thresh].index,"Active Position"] = 1
         trades_df.loc[trades_df[trades_df["Z Score"] >= 1* z_score_thresh].index,"Active Position"] = -1
-        trades_df.loc[trades_df[(trades_df["Z Score"] > -1* 0.25) & (trades_df["Z Score"] < 1* 0.25) ].index,"Active Position"] = 0
+        trades_df.loc[trades_df[(trades_df["Z Score"] > -1* 1) & (trades_df["Z Score"] < 1* 1) ].index,"Active Position"] = 0
                 
     
         trades_df["Active Position"] = trades_df["Active Position"].fillna(method="ffill")
     
-        trades_df.loc[((trades_df["Active Position"] == 1) & (trades_df["Z Score"] > -0.25)), "Active Position" ] = 0
-        trades_df.loc[((trades_df["Active Position"] == -1) & (trades_df["Z Score"] < 0.25)), "Active Position" ] = 0
+        trades_df.loc[((trades_df["Active Position"] == 1) & (trades_df["Z Score"] > -1)), "Active Position" ] = 0
+        trades_df.loc[((trades_df["Active Position"] == -1) & (trades_df["Z Score"] < 1)), "Active Position" ] = 0
         #print( trades_df[(trades_df["Active Position"] == 1) & (trades_df["Z Score"] > -0.25)])
         trades_df["Active Position"] = trades_df["Active Position"].shift(+1)
         trades_df["Active Position"] = trades_df["Active Position"].fillna(0)
