@@ -43,11 +43,6 @@ def Sharpe_Ratio(series, timeframe, interest_rate = 0.05): # Generally input ret
     return sharpe_ratio
 
 def find_cointegrated_pairs(price_matrix, type_,trend_ , significant_level = 0.05 ): #type_ = "raw", "normalized", "log"
-   #https://hudsonthames.org/an-introduction-to-cointegration/
-   # One of the most time consuming functions: Determining the pairs is a huge task to do. 
-   # 1- Implement other pair finding algoritghms. There are several academic work on this. 
-   # 2- Client should also be able to pass in their selected pairs.
-
 
     cointegrated_pairs = []
     symbols = price_matrix.columns.values.tolist()

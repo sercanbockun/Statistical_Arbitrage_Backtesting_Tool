@@ -289,7 +289,7 @@ def main():
                                 # Add traces for training period
                                 for col in train_df.columns:
                                     fig.add_trace(go.Scatter(
-                                        x=pd.to_datetime(train_df.index.astype(int), unit='ms'),
+                                        x=pd.to_datetime(train_df.index.astype(float), unit='ms'),
                                         y=train_df[col],
                                         name=f"{col} (Train)",
                                         line=dict(dash='solid')
@@ -298,7 +298,7 @@ def main():
                                 # Add traces for testing period
                                 for col in test_df.columns:
                                     fig.add_trace(go.Scatter(
-                                        x=pd.to_datetime(test_df.index.astype(int), unit='ms'),
+                                        x=pd.to_datetime(test_df.index.astype(float), unit='ms'),
                                         y=test_df[col],
                                         name=f"{col} (Test)",
                                         line=dict(dash='dot')

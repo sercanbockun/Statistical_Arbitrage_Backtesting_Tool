@@ -51,11 +51,7 @@ class Statistical_Arbitrage():
         index_steps = indexes[-1]-indexes[-2]    
     
         price_matrix_ = price_matrix.loc[(start_time - 2*index_steps*max_period):end_time, :]
-        #Default price matrix'te senin indexlerin ile clıent'ın inputlayacağı indexler farklı olabilir.
-        # Bunu her clientta one by one çözebilirsin, bunu nasıl otomatize edebiliriz?
-        
-        
-        # Pozisyona girilmediği zamanlarda günlük faize yatırdığımızı varsatyalım??
+        # Pozisyona girilmediği zamanlarda günlük faize yatırdığımızı varsatyalım?
         
         trades_df["Price_1"] = price_matrix_[pair_1]
         trades_df["Price_2"] = price_matrix_[pair_2] 
@@ -109,13 +105,7 @@ class Statistical_Arbitrage():
                 
     
         trades_df["Active Position"] = trades_df["Active Position"].fillna(method="ffill")
-        
     
-        # yukarıda -0.25 ve 0.25 aralığında ise 0'a gir demişsin ama z score -0.5'ten 0.5'e zıplayabilir mesela bu yüzden 
-        # aşağıdaki 2 satır gerekli
-        # Trade'den çıkma kondisyonu tamam okey ama bunu sorgulayabilirz. Bunu nasıl değiştirebiliriz düşünelim.
-        # Burada yaratıcılık ve yöntemler gerekli. -0.25'i falan bi parametre olarak optimizasyona sokabilirsin ama ne
-        # gerek var farklı şeyler düşünelim
         trades_df.loc[((trades_df["Active Position"] == 1) & (trades_df["Z Score"] > -0.25)), "Active Position" ] = 0
         trades_df.loc[((trades_df["Active Position"] == -1) & (trades_df["Z Score"] < 0.25)), "Active Position" ] = 0
         #print( trades_df[(trades_df["Active Position"] == 1) & (trades_df["Z Score"] > -0.25)])
@@ -124,9 +114,6 @@ class Statistical_Arbitrage():
     
     
         trades_df["Return on Position"] = (trades_df["Return on Long"])*trades_df["Active Position"] 
-        
-    
-    
         
         
         trades_df["Fee Rate"] = trades_df["Active Position"] - trades_df["Active Position"].shift(+1)
@@ -326,16 +313,14 @@ class Statistical_Arbitrage():
                     test_days = (end_time-time)/day
                 
                 price_matrix_ = price_matrix.loc[(time-train_days*day):time, :]
-                #print(price_matrix_)
-                #### PAIR SELECTION INCELENMESI GEREKEN BIR KONU. CONTEGRATION DIŞI BIRÇOK YONTEM VAR. CLIENT MANUALLY INPUT EDEBILIR VETA DIĞER YONTEMLERLE
-                ### BANA PAIRLERI BUL DIYEBILSIN
+
                 
                 if isinstance(selected_pairs_df, list):
                     #print("GİRDİ")
-                    #selected_pairs = find_cointegrated_pairs(price_matrix_, "log","ctt",  0.05)
+                    selected_pairs = find_cointegrated_pairs(price_matrix_, "log","c",  0.05)
 
-                    pair_finder = StatisticalArbitragePairFinder(price_matrix_, min_history_pct=1, trend= trend, transform_type="log", max_pairs = max_pairs, max_per_asset = max_per_asset)
-                    selected_pairs = pair_finder.run_full_analysis( significance_level=0.02 )[["Asset 1", "Asset 2","p-value", "coint_score_norm", "normality_score_norm", "overall_score"]]
+                    #pair_finder = StatisticalArbitragePairFinder(price_matrix_, min_history_pct=1, trend= trend, transform_type="log", max_pairs = max_pairs, max_per_asset = max_per_asset)
+                    #selected_pairs = pair_finder.run_full_analysis( significance_level=0.02 )[["Asset 1", "Asset 2","p-value", "coint_score_norm", "normality_score_norm", "overall_score"]]
                     selected_pairs["Start Time"] = np.nan
                     selected_pairs["End Time"] = np.nan
                     selected_pairs["Train Days"] = train_days

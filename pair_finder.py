@@ -30,7 +30,7 @@ class StatisticalArbitragePairFinder:
     using various methods including cointegration testing.
     """
     
-    def __init__(self, price_matrix, min_history_pct=0.5, trend = 'c', transform_type="raw", max_pairs = 50, max_per_asset = 2):
+    def __init__(self, price_matrix, min_history_pct=0.5, trend = 'c', transform_type="log", max_pairs = 50, max_per_asset = 2):
         """
         Initialize the pair finder with price data.
         
@@ -456,8 +456,8 @@ class StatisticalArbitragePairFinder:
 
         # Calculate overall score (weighted average of individual scores)
         weights = {
-            'normality_score': 0.80,
-            'coint_score': 0.30,
+            'normality_score': 0.50,
+            'coint_score': 0.50,
             #'mean_reversion_score': 0.25,
 
         }
