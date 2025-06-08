@@ -307,6 +307,7 @@ class Statistical_Arbitrage():
         while time < end_time:
             period += 1
             print("Period: ", period, " Time: ", str(pd.to_datetime(str(time),unit='ms')))
+            print("Period: ", period, " Time: ", time-train_days*day) 
           
             try:
                 if time+ test_days*day >= end_time:
@@ -375,8 +376,8 @@ class Statistical_Arbitrage():
     
                         train_results_df = self.Trade_Pair_Arbitrage( time-train_days*day, time, asset_1, asset_2, *parameters, False)
                         train_wallet = train_results_df.loc[train_results_df.index[-1],"Wallet"]
-                        selected_pairs.loc[selected_pairs.index[i],"Start Time"] = str(pd.to_datetime(str(time-train_days*day ),unit='ms'))
-                        selected_pairs.loc[selected_pairs.index[i],"End Time"] = str(pd.to_datetime(str(time ),unit='ms'))
+                        selected_pairs.loc[selected_pairs.index[i],"Start Time"] = time-train_days*day
+                        selected_pairs.loc[selected_pairs.index[i],"End Time"] = time
                         selected_pairs.loc[selected_pairs.index[i],"Train Wallet"] = train_wallet
                         #selected_pairs.loc[selected_pairs.index[i],"Train Sharpe Ratio"] = nicest_things[1]
                         selected_pairs.loc[selected_pairs.index[i],"Train Sharpe Ratio"] = smoothed_best_value
