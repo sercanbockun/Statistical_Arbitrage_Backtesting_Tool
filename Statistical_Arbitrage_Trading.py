@@ -465,8 +465,9 @@ class Statistical_Arbitrage():
         test_wallet_dfs_by_periods = {}
         day = 86400000
         start_time__ = selected_pairs_df_by_period.iloc[0, selected_pairs_df_by_period.columns.get_loc('Start Time')]
-        start_time =  datetime.datetime.strptime(start_time__, '%Y-%m-%d %H:%M:%S.%f')
-        start_time = start_time.timestamp()*1000
+        #start_time =  datetime.datetime.strptime(start_time__, '%Y-%m-%d %H:%M:%S.%f')
+        #start_time = start_time.timestamp()*1000
+        start_time = start_time__
         print(start_time)
         train_days = selected_pairs_df_by_period.iloc[0, selected_pairs_df_by_period.columns.get_loc("Train Days")]
         test_days = selected_pairs_df_by_period.iloc[0, selected_pairs_df_by_period.columns.get_loc("Test Days")]
